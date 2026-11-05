@@ -1,0 +1,15 @@
+UniqueID,n_nonUNK_species,species_list,first_nonUNK_year,last_nonUNK_year,SpeciesConflict,conflict_reason,action
+FP2B_14_1828,0,,NA,NA,TRUE,all_species_unknown,quarantined_tree_due_to_species_change
+FP2B_14_901,0,,NA,NA,TRUE,all_species_unknown,quarantined_tree_due_to_species_change
+FP2B_7_3758,2,"PICGLA, POPBAL",2000,2024,TRUE,multiple_species_codes,quarantined_tree_due_to_species_change
+FP4B_28_2117,0,,NA,NA,TRUE,all_species_unknown,quarantined_tree_due_to_species_change
+MDI2_8_1188,0,,NA,NA,TRUE,all_species_unknown,quarantined_tree_due_to_species_change
+UP1A_11_104,0,,NA,NA,TRUE,all_species_unknown,quarantined_tree_due_to_species_change
+UP1A_1_770,2,"BETNEO, PICGLA",2008,2023,TRUE,multiple_species_codes,quarantined_tree_due_to_species_change
+UP1A_1_773,2,"BETNEO, PICGLA",2008,2023,TRUE,multiple_species_codes,quarantined_tree_due_to_species_change
+UP1B_6_1649,2,"PICGLA, BETNEO",2018,2023,TRUE,multiple_species_codes,quarantined_tree_due_to_species_change
+UP1C_14_287,2,"BETNEO, PICGLA",2018,2023,TRUE,multiple_species_codes,quarantined_tree_due_to_species_change
+UP2A_21_5201,2,"POPBAL, BETNEO",1990,2000,TRUE,multiple_species_codes,quarantined_tree_due_to_species_change
+UP2B_7_132,0,,NA,NA,TRUE,all_species_unknown,quarantined_tree_due_to_species_change
+UP4A_3_235,2,"BETNEO, PICMAR",2008,2026,TRUE,multiple_species_codes,quarantined_tree_due_to_species_change
+UP4C_1_182,2,"PICMAR, LARLAR",2018,2026,TRUE,multiple_species_codes,quarantined_tree_due_to_species_change
